@@ -1,5 +1,6 @@
 # AutomaticWatering
-My automatic watering system for any type of flower pot using:
+My automatic watering system for any type of flower pot using:  
+- 3D printed box for cables and 3D printed box for Arduino Uno  
 - Arduino Uno
 - A few, small (8mm) tubes
 - one L239D
