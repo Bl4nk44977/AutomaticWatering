@@ -7,7 +7,7 @@ My automatic watering system for any type of flower pot using:
 - a few small water pumps (in this case I used 4, because I only had one L239D, if you have more, get more pumps - one L293D works for one pump)  
 
 How I plugged everything:  
-Arduino Uno 13,12,11,10 pins ---> L293D 2,7,10,15 pins  (numbers of those pins are on one of pictures I uploaded in pictures folder)
+Arduino Uno 13,12,11,10 pins ---> L293D 2,7,10,15 pins  (reference picture of L293D drawn is in pictures folder)
 Arduino Uno 5V pin           ---> L293D 1,8,16,9 pins  
 Arduino Uno GND pin          ---> L293D 4,5,12,13 pins  
 Arduino Uno USB port         ---> Power socket  
