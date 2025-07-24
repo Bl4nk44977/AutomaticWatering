@@ -12,4 +12,6 @@ Arduino Uno 5V pin           ---> L293D 1,8,16,9 pins
 Arduino Uno GND pin          ---> L293D 4,5,12,13 pins  
 Arduino Uno USB port         ---> Power socket  
 L293D 3,6,11,14 pins         ---> Water pumps (each pin for each pump)  
-Water pumps have tubes connected to them and at the end of those tubes are pots (like on pictures in pictures folder)
+Water pumps have tubes connected to them and at the end of those tubes are pots (like on pictures in pictures folder)  
+
+Please keep in mind this project is still in progress, I will add more details in the future...  
